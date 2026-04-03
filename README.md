@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-Hey! I'm Enrique — a software engineer who started on the frontend and slowly fell in love with the backend. Today I enjoy building full-stack applications that are fast, reliable, and thoughtfully designed. I’m always exploring new tools, optimizing workflows, and leveling up my engineering craft.
+Hey! I'm Enrique — a software engineer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/enriquechoza) 
 
